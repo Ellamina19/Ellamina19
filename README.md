@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[!bqnner](https://github.com/Ellamina19/Ellamina19/blob/main/banner.jpg)
+![bqnner](https://github.com/Ellamina19/Ellamina19/blob/main/banner.jpg)
 
 <!--
 **Ellamina19/Ellamina19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
